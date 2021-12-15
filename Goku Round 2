@@ -1,0 +1,89 @@
+{
+   "title":"GOKU ROYALE ROUND ONE",
+   "description":"A compilation of every Round 1 GOKU ROYALE comic",
+   "artist":"-",
+   "author":"The creator of each comic has been placed after the characters fighting",
+   "cover":"https://i.imgur.com/ooHXuCa.png",
+   "chapters":{
+      "4":{
+         "title":"Cactusmon And Fang VS. Disaster Ranger VS. Jeremy Poole  (by Napstablook)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HnSsLEW/"
+         },
+         "last_updated":"1638248340"
+      },
+      "9":{
+         "title":"Anathema for You VS. Vasya Sapozhnikov VS. The Verdure  (by Gray)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/qpZgUkq/"
+         },
+         "last_updated":"1638248340"
+      },
+      "10":{
+         "title":"Vasya Sapozhnikov VS. The Verdure VS. Anathema for You (by Ninja)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1tMpPL8/"
+         },
+         "last_updated":"1638248340"
+      },
+      "11":{
+         "title":"The Verdure VS. Anathema for You VS. Vasya Sapozhnikov (by Starstruck)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/RmSIA1W/"
+         },
+         "last_updated":"1638248340"
+      },
+      "30":{
+         "title":"Kass the Lass VS. Leon Detierra (by Spookie)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/vXQKeDE/"
+         },
+         "last_updated":"1638248340"
+      },
+      "37":{
+         "title":"The Platonic Form of Edge VS. Mr. F (by Jelly)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/TAg9ekX/"
+         },
+         "last_updated":"1638248340"
+      },
+      "43":{
+         "title":"Booshroom and Smol Turt VS. Michael Loup (by burbchick)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/D0VaBQz/"
+         },
+         "last_updated":"1638248340"
+      },
+      "46":{
+         "title":"Doomintroll VS. DM (by Arthrai)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/UmrLutY/"
+         },
+         "last_updated":"1638248340"
+      },
+      "48":{
+         "title":"emm s. pain VS. Saym (by slug)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/3SILrjp/"
+         },
+         "last_updated":"1638248340"
+      },
+      "97":{
+         "title":"Fujoshi na Faita VS. Zaveri and the Flock (by TheRebelSpy)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uCIqLHU/"
+         },
+         "last_updated":"1638248340"
+      }
+   }
+}
