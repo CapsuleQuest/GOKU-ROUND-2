@@ -61,11 +61,35 @@
          },
          "last_updated":"1638248340"
       },
+      "12":{
+         "title":"Shemp VS. Kohimaru (by Zeedikay)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zc41BEJ/"
+         },
+         "last_updated":"1638248340"
+      },
       "22":{
          "title":"Sailor Phyrexia VS. Kryphon Visier of Spirits (by moonsettler)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/HL7Cyhr/"
+         },
+         "last_updated":"1638248340"
+      },
+      "26":{
+         "title":"Mr. Mister VS. Skringus (by Luzu)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/bsAPCre/"
+         },
+         "last_updated":"1638248340"
+      },
+      "28":{
+         "title":"Mewza VS. Skringus (by Cevapi)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/1fcxmVl/"
          },
          "last_updated":"1638248340"
       },
@@ -85,6 +109,14 @@
          },
          "last_updated":"1638248340"
       },
+      "35":{
+         "title":"Mr. F VS. Harmony (by Jojo)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/3Xo21WX/"
+         },
+         "last_updated":"1638248340"
+      },
       "36":{
          "title":"The Platonic Form of Edge VS. Bo-Yellow (by Jelly)",
          "volume":"1",
@@ -101,11 +133,27 @@
          },
          "last_updated":"1638248340"
       },
+      "38":{
+         "title":"the HAWB (HakuAkuWakkoBaku) VS. Mr. Stabby (by Pyrite)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uiE27G7/"
+         },
+         "last_updated":"1638248340"
+      },
       "41":{
          "title":"Booshroom and Smol Turt VS. Michael Loup (by burbchick)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/D0VaBQz/"
+         },
+         "last_updated":"1638248340"
+      },
+      "42":{
+         "title":"Darth Felonia VS. Xantor the DJ Warlock (by galgoa)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Td4d4QP/"
          },
          "last_updated":"1638248340"
       },
@@ -141,11 +189,27 @@
          },
          "last_updated":"1638248340"
       },
+      "61":{
+         "title":"Dan Backslide VS. Tiny Squim (by Skully)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/dTb6SCG/"
+         },
+         "last_updated":"1638248340"
+      },
       "69":{
          "title":"Go and Coup VS. Slicepastaman & Mysterious Onlooker (by Kipp)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/QMmLS0w/"
+         },
+         "last_updated":"1638248340"
+      },
+      "70":{
+         "title":"Musty VS. Rina Shiromiya (by Tin Kat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/iFpiV7N/"
          },
          "last_updated":"1638248340"
       },
@@ -165,11 +229,27 @@
          },
          "last_updated":"1638248340"
       },
+      "77":{
+         "title":"Bare Lasard VS. Toa Mirraz (by ORA)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/PrP8AQJ/"
+         },
+         "last_updated":"1638248340"
+      },
       "89":{
          "title":"Gertrude VS. Fath Kakdalbomrek (by Aegis)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/UgwqF0h/"
+         },
+         "last_updated":"1638248340"
+      },
+      "91":{
+         "title":"Y̷O̶U̵N̴G̷S̸T̶E̵R̸ VS. Bonito Whodunit (by Storm)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/7qTwNtw/"
          },
          "last_updated":"1638248340"
       },
@@ -197,6 +277,14 @@
          },
          "last_updated":"1638248340"
       },
+      "96":{
+         "title":"Zaveri and the Flock VS. Fujoshi na Faita (by Vince)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/UTqyasg/"
+         },
+         "last_updated":"1638248340"
+      },
       "98":{
          "title":"Chishire Shi Kat VS. Harold, the Unchaparoned Vagrant (by Eriss)",
          "volume":"1",
@@ -210,6 +298,22 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/As2Bw4v/"
+         },
+         "last_updated":"1638248340"
+      },
+      "100":{
+         "title":"Sonoa VS. Kayu the Summoner (by Ham)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/26i9stQ/"
+         },
+         "last_updated":"1638248340"
+      },
+      "106":{
+         "title":"C.A.R.L. VS. Hammer Spongeson Potpants (by Paper Shredder)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Wj0eT9B/"
          },
          "last_updated":"1638248340"
       }
