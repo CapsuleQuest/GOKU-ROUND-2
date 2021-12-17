@@ -85,6 +85,22 @@
          },
          "last_updated":"1638248340"
       },
+      "14":{
+         "title":"Skrylar VS. Sherley Holmes (by Vortexz)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/EKB7Tlh/"
+         },
+         "last_updated":"1638248340"
+      },
+      "15":{
+         "title":"Sherley Holmes VS. Skrylar (by Popcat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/flo4qk8/"
+         },
+         "last_updated":"1638248340"
+      },
       "17":{
          "title":"The Toker VS. Batwave (by Sal)",
          "volume":"1",
@@ -93,11 +109,27 @@
          },
          "last_updated":"1638248340"
       },
+      "19":{
+         "title":"Hurdy and Squatella VS. Spiker (by CamCato)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mlBxSsg/"
+         },
+         "last_updated":"1638248340"
+      },
       "22":{
          "title":"Sailor Phyrexia VS. Kryphon Visier of Spirits (by moonsettler)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/HL7Cyhr/"
+         },
+         "last_updated":"1638248340"
+      },
+      "23":{
+         "title":"Kryphon Visier of Spirits VS. Sailor Phyrexia (by Mounds)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/tl2C55E/"
          },
          "last_updated":"1638248340"
       },
@@ -130,6 +162,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/yLQrNjr/"
+         },
+         "last_updated":"1638248340"
+      },
+      "32":{
+         "title":"Skidmary VS. RAD Coaster (by pepper)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/2vkgUcJ/"
          },
          "last_updated":"1638248340"
       },
@@ -169,7 +209,7 @@
          "title":"Bo-Yellow VS. The Platonic Form of Edge (by 1FreeCaleb)",
          "volume":"1",
          "groups":{
-            "Imgur":"/proxy/api/imgur/chapter/En1br8X/"
+            "Imgur":"/proxy/api/imgur/chapter/nEK5uHs/"
          },
          "last_updated":"1638248340"
       },
@@ -253,11 +293,43 @@
          },
          "last_updated":"1638248340"
       },
+      "60":{
+         "title":"Tiny Squim VS. Dan Backslide (by Pengogo and breaknbake)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/m2hkhFe/"
+         },
+         "last_updated":"1638248340"
+      },
       "61":{
          "title":"Dan Backslide VS. Tiny Squim (by Skully)",
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/dTb6SCG/"
+         },
+         "last_updated":"1638248340"
+      },
+      "62":{
+         "title":"Beatrice Liz Grimgrave VS. Shell (by xeno112)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yD79HrX/"
+         },
+         "last_updated":"1638248340"
+      },
+      "64":{
+         "title":"The Shadow (Kent Cranston) VS. Liz Chance (by Gibs)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/v8es92h/"
+         },
+         "last_updated":"1638248340"
+      },
+      "67":{
+         "title":"Cummingtonite VS. Nattany (by Flareonforever)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/pp3XVTN/"
          },
          "last_updated":"1638248340"
       },
@@ -330,6 +402,22 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/PrP8AQJ/"
+         },
+         "last_updated":"1638248340"
+      },
+      "84":{
+         "title":"Stefan Unibrow and the Geo-Stones VS. The Twiceler (by Sloof)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/LDWIcI /"
+         },
+         "last_updated":"1638248340"
+      },
+      "85":{
+         "title":"Captain Propain VS. Toast (by owlbat)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/toZIj5Q/"
          },
          "last_updated":"1638248340"
       },
@@ -429,6 +517,14 @@
          },
          "last_updated":"1638248340"
       },
+      "101":{
+         "title":"Bingley and Yar'Versum VS. ULA the Witch-er (by Kiloken)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/lxPrYp9/"
+         },
+         "last_updated":"1638248340"
+      },
       "103":{
          "title":"Kyluc & Mimi VS. The Feathered Giant (by jam)",
          "volume":"1",
@@ -458,6 +554,14 @@
          "volume":"1",
          "groups":{
             "Imgur":"/proxy/api/imgur/chapter/Wj0eT9B/"
+         },
+         "last_updated":"1638248340"
+      },
+      "107":{
+         "title":"Senera Pluin VS. Boid and Outline (by Ledgem)",
+         "volume":"1",
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/xGUgaEO/"
          },
          "last_updated":"1638248340"
       },
